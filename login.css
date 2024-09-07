@@ -1,0 +1,53 @@
+body{
+    background: #2980b9;  
+background: -webkit-linear-gradient(to right, #2c3e50, #2980b9); 
+background: linear-gradient(to right, #2c3e50, #2980b9);
+
+}
+.card{
+    background-color: rgb(213, 211, 205);
+    margin-top: 20vh;
+    margin-left: 10vw;
+    margin: 35vh 0vw 0vh 37vw;
+    border-radius: 20px;
+    width: 25vw;
+    padding: 2vw;
+}
+
+input{
+    padding: 10px;
+    width: 20vw;
+    height: 3vh;
+    border-radius: 15px;
+    border-color: rgb(0, 195, 255) ;
+    margin-top: 5vh;
+}
+span{
+    display: flex;
+    margin-top: 3vh;
+}
+button{
+    padding: 10px;
+    width: 6vw;
+    border-radius: 15px;
+    margin-left: 4.5vw;
+    margin-bottom: 3vh;
+    cursor: pointer;
+}
+
+button:hover{
+    background-color: rgba(7, 149, 231, 0.977);
+}
+#nav{
+    background-color: transparent;
+    color: white;
+}
+.nav-tab{
+    color: white;
+}
+h2{
+    color: white;
+}
+.nav-last-element{
+    border: 2px solid white;
+}
